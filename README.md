@@ -79,6 +79,7 @@ Currently supported djgpp-version :
 * 5.4.0
 * 6.1.0
 * 6.2.0
+* 6.3.0
 
 For example, to build DJGPP for gcc 6.2.0 :
 
@@ -116,7 +117,7 @@ There are 2 methods to run the compiler (*BASE_DIR* is your DJGPP install locati
 
 ### Successful build
 
-* OSX 10.10.4 / 10.9.5 / 10.8.5
+* OSX 10.12.2 / 10.10.4 / 10.9.5 / 10.8.5
 * Debian 7 (32bit)
 * Ubuntu 12 (64bit)
 * FreeBSD-10.2 (64bit)
